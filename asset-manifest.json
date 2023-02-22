@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChaosFreeze/robofriends.git/static/css/main.ac9d9211.css",
+    "main.js": "/ChaosFreeze/robofriends.git/static/js/main.cda3b72b.js",
+    "static/js/787.32032a02.chunk.js": "/ChaosFreeze/robofriends.git/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/ChaosFreeze/robofriends.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/ChaosFreeze/robofriends.git/index.html",
+    "main.ac9d9211.css.map": "/ChaosFreeze/robofriends.git/static/css/main.ac9d9211.css.map",
+    "main.cda3b72b.js.map": "/ChaosFreeze/robofriends.git/static/js/main.cda3b72b.js.map",
+    "787.32032a02.chunk.js.map": "/ChaosFreeze/robofriends.git/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac9d9211.css",
+    "static/js/main.cda3b72b.js"
+  ]
+}
